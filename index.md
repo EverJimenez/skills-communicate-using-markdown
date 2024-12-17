@@ -8,3 +8,7 @@
 
 
 Testing header sizes, creating pull reqwuests, performing commits. 
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
